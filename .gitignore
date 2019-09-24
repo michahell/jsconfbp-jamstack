@@ -4,3 +4,5 @@ node_modules
 public/
 # Local Netlify folder
 .netlify
+# IDE crap
+.idea/
